@@ -1,0 +1,32 @@
+{
+    "id": "C6CE4DB1",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1598307226981.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "mtcars",
+        "caption": "mtcars",
+        "totalObservations": 32,
+        "displayedObservations": 32,
+        "variables": 11,
+        "cacheKey": "EA4FF8C3",
+        "object": "mtcars",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=mtcars&cache_key=EA4FF8C3&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8530226022928310117,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598307226981,
+    "read_only": false,
+    "read_only_alternatives": []
+}

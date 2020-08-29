@@ -1,0 +1,32 @@
+{
+    "id": "77D5D19D",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1597611493501.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "iris",
+        "caption": "iris",
+        "totalObservations": 150,
+        "displayedObservations": 150,
+        "variables": 5,
+        "cacheKey": "D218E68F",
+        "object": "iris",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=iris&cache_key=D218E68F&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1597611452,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1597611493501,
+    "read_only": false,
+    "read_only_alternatives": []
+}
